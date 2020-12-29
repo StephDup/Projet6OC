@@ -1,0 +1,19 @@
+{
+  "name": "p6ocstephdup",
+  "version": "1.0.0",
+  "description": "6th project from stephdup OpenClassrooms course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephDup/Projet6OC.git"
+  },
+  "author": "stephdup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephDup/Projet6OC/issues"
+  },
+  "homepage": "https://github.com/StephDup/Projet6OC#readme"
+}
