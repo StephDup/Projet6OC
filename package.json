@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/StephDup/Projet6OC/issues"
   },
-  "homepage": "https://github.com/StephDup/Projet6OC#readme"
+  "homepage": "https://github.com/StephDup/Projet6OC#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.9",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.2"
+  }
 }
