@@ -61,7 +61,6 @@ exports.likeSauce = (req, res, next) => {
           }
         }
       }
-      console.log(sauce);
       sauce.save()
       .then(() => res.status(201).json({ message: 'Like/Dislike envoyé !' }))
       .catch(error => res.status(400).json({ error }));
